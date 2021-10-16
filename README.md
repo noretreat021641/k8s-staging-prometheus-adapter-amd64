@@ -1,0 +1,1 @@
+# k8s-staging-prometheus-adapter-amd64
